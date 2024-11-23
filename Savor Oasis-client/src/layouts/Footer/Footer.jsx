@@ -10,15 +10,15 @@ const Footer = () => {
             Savor Oasis <img className="h-6" src={logoN} alt="" />
           </h2>
           <p>Contact Information - md.maheen.billah.97@gmail.com</p>
-          <p>Copyright © 2024 - All right reserved by Md. Maheen Billah</p>
+          <p>Copyright © 2024 - All right reserved by Md. Arifur Rahman Sajid </p>
           <div className="text-xl mt-2 text-greenM flex items-center gap-4">
-            <a href="https://www.facebook.com/md.maheen.billah.97/">
+            <a href="">
               <FaFacebook />
             </a>
-            <a href="https://www.linkedin.com/in/md-maheen-billah/">
+            <a href="">
               <FaLinkedin />
             </a>
-            <a href="https://www.instagram.com/md.maheen.billah">
+            <a href="">
               <FaInstagram />
             </a>
           </div>
